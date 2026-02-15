@@ -27,10 +27,3 @@ I’m focused on building practical AI systems and strengthening my mathematical
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Vasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight)
