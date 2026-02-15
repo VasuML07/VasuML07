@@ -50,10 +50,8 @@ Currently a 2nd year B.Tech student at VIT-AP University with a strong interest 
 
 - REST APIs  
 
----
-
 ## 📊 GitHub Stats
 
-![Vasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight)
+![Vasu's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight)
