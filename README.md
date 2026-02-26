@@ -7,7 +7,7 @@ Currently a 2nd year B.Tech student at VIT-AP University with a strong interest 
 
 ## 🔗 Connect With Me
 
-🌐 Portfolio:   
+🌐 Portfolio: https://vasu-margana-portfolio-tgw.caffeine.xyz/
 💼 LinkedIn: https://www.linkedin.com/in/vasu-margana-49265031b/  
 💻 GitHub: https://github.com/VasuML07  
 
