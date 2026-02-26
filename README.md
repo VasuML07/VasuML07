@@ -48,7 +48,6 @@ Currently a 2nd year B.Tech student at VIT-AP University with a strong interest 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- REST APIs  
 
 ## 📊 GitHub Stats
 
