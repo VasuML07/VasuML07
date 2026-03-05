@@ -1,4 +1,4 @@
-bro just add this dont change existing ones present code is One last insight: the profiles that feel truly elite usually add one signature visual element tied to their domain. For an ML engineer, that could be a neural network diagram showing your skills as layers (input → hidden → output). Very few people do that, and it fits your theme perfectly. add this feature to   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40)
 
 # Hi, I'm Vasu 👋
 
@@ -157,6 +157,59 @@ Improving DSA visualizer
 ![snake gif](https://github.com/VasuML07/VasuML07/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+---
+
+# 🧠 ML Skill Neural Network
+
+```mermaid
+flowchart LR
+
+subgraph INPUT_LAYER["Input Layer (Foundations)"]
+A1(Python)
+A2(Java)
+A3(C)
+A4(SQL)
+end
+
+subgraph HIDDEN_LAYER["Hidden Layer (Core ML Tools)"]
+B1(NumPy)
+B2(Pandas)
+B3(Scikit-Learn)
+B4(Data Structures)
+B5(Algorithms)
+end
+
+subgraph DEEP_LAYER["Deep Learning Layer"]
+C1(TensorFlow)
+C2(PyTorch)
+C3(Keras)
+C4(CNN)
+C5(NLP)
+end
+
+subgraph OUTPUT_LAYER["Output Layer (Systems Built)"]
+D1(ML Systems)
+D2(AI Applications)
+D3(Algorithm Visualizers)
+D4(Generative AI Tools)
+end
+
+A1 --> B1
+A2 --> B4
+A3 --> B4
+A4 --> B2
+
+B1 --> C1
+B2 --> C2
+B3 --> C3
+B4 --> C4
+B5 --> C5
+
+C1 --> D1
+C2 --> D2
+C3 --> D3
+C4 --> D4
 
 # 🧭 Current Focus
 
