@@ -1,21 +1,94 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40)
+
 # Hi, I'm Vasu 👋
 
-I build practical Machine Learning applications and explore the mathematical foundations behind AI systems.  
-Currently a 2nd year B.Tech student at VIT-AP University with a strong interest in ML engineering and applied AI.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer+in+Progress;Building+Practical+AI+Projects;Exploring+Math+Behind+Neural+Networks;DSA+%2B+ML+%2B+Applied+AI" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VasuML07&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
+
+I build **practical Machine Learning systems** and explore the **mathematics behind AI models**.  
+Currently a **2nd year B.Tech student at VIT-AP University** focused on ML engineering and applied AI tools.
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
-🌐 Portfolio: https://vasu-margana-portfolio-tgw.caffeine.xyz/
-💼 LinkedIn: https://www.linkedin.com/in/vasu-margana-49265031b/  
-💻 GitHub: https://github.com/VasuML07  
+Portfolio  
+https://vasu-margana-portfolio-tgw.caffeine.xyz/
+
+LinkedIn  
+https://www.linkedin.com/in/vasu-margana-49265031b/
+
+GitHub  
+https://github.com/VasuML07
 
 ---
 
-## 🛠 Skills & Technologies
+# 🚀 Featured Projects
 
-### 💻 Languages
+## 🧠 DSA Trainer
+
+Interactive platform to **learn algorithms through visualizations**.
+
+Live Demo  
+https://dsa-trainer-orpin.vercel.app/
+
+Repository  
+https://github.com/VasuML07/DSA-Trainer
+
+Features
+- Algorithm visualizer
+- Tree traversal walkthroughs
+- Dynamic programming explanations
+- Interactive learning UI
+
+---
+
+## 🔬 Neural Network From Scratch
+
+A neural network implemented **without deep learning frameworks** to understand how learning actually works internally.
+
+Core Components
+- Forward propagation
+- Backpropagation
+- Gradient descent optimization
+- ReLU and Sigmoid activations
+- Training loop and loss calculation
+
+Tech  
+Python • NumPy
+
+Repository  
+https://github.com/VasuML07/neural-network-from-scratch
+
+---
+
+## 🎨 Text-to-Image Generator
+
+Application that converts **text prompts into images using diffusion models**.
+
+Features
+- Prompt → Image generation
+- Guidance scale control
+- Negative prompts
+- Image preview and download
+
+Tech  
+Python • PyTorch • HuggingFace Diffusers • Streamlit
+
+Repository  
+https://github.com/VasuML07/text-to-image-generator
+
+---
+
+# 🛠 Skills & Technologies
+
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -23,32 +96,52 @@ Currently a 2nd year B.Tech student at VIT-AP University with a strong interest 
 
 ---
 
-### 🤖 ML / AI Frameworks & Libraries
+### ML / AI Libraries
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-### 🧠 ML / AI Concepts
-- Convolutional Neural Networks (CNNs)  
-- Natural Language Processing (NLP)  
+### ML Concepts
+
+- Convolutional Neural Networks  
+- Natural Language Processing  
 - TF-IDF  
 - Tokenization  
 
 ---
 
-### 🛠 Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+# 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight)
 
-![Vasu's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Activity
+
+[![Vasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=tokyo-night)](https://github.com/VasuML07)
+
+---
+
+# 🧭 Current Focus
+
+- Building **interactive learning tools for algorithms**
+- Understanding **neural network internals**
+- Experimenting with **generative AI systems**
+
+---
+
+# 🧠 Random AI Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
