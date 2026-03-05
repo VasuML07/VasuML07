@@ -85,6 +85,26 @@ https://github.com/VasuML07/text-to-image-generator
 
 ---
 
+# 🔬 AI Lab Dashboard
+
+### Current Experiments
+
+- Neural networks implemented from first principles  
+- Algorithm visualization tools for DSA learning  
+- Prompt experimentation with diffusion models  
+
+---
+
+### Latest Experiments (Auto Updated)
+
+<!--START_SECTION:experiments-->
+Training CNN from scratch  
+Testing diffusion prompts  
+Improving DSA visualizer
+<!--END_SECTION:experiments-->
+
+---
+
 # 🛠 Skills & Technologies
 
 ### Languages
@@ -129,6 +149,12 @@ https://github.com/VasuML07/text-to-image-generator
 # 📈 Contribution Activity
 
 [![Vasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=tokyo-night)](https://github.com/VasuML07)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/VasuML07/VasuML07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
