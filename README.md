@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40)
+bro just add this dont change existing ones present code is One last insight: the profiles that feel truly elite usually add one signature visual element tied to their domain. For an ML engineer, that could be a neural network diagram showing your skills as layers (input → hidden → output). Very few people do that, and it fits your theme perfectly. add this feature to   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40)
 
 # Hi, I'm Vasu 👋
 
@@ -31,11 +31,7 @@ https://github.com/VasuML07
 ---
 ---
 
-# 📅 Contribution Calendar
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/VasuML07)
-
----
 
 ---
 
