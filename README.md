@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb&height=200&section=header&text=Vasu%20Margana&fontSize=40)
 
 # Hi, I'm Vasu 👋
 
@@ -136,91 +136,53 @@ Improving DSA visualizer
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight)
-
----
-
-# 📈 Contribution Activity
-
-[![Vasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=tokyo-night)](https://github.com/VasuML07)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/VasuML07/VasuML07/blob/output/github-contribution-grid-snake.svg)
-
----
-
----
-
 # 🧠 ML Skill Neural Network
 
 ```mermaid
 flowchart LR
 
-subgraph INPUT_LAYER["Input Layer (Foundations)"]
-A1(Python)
-A2(Java)
-A3(C)
-A4(SQL)
+subgraph Input_Layer
+Python
+Java
+C
+SQL
 end
 
-subgraph HIDDEN_LAYER["Hidden Layer (Core ML Tools)"]
-B1(NumPy)
-B2(Pandas)
-B3(Scikit-Learn)
-B4(Data Structures)
-B5(Algorithms)
+subgraph Core_Tools
+NumPy
+Pandas
+ScikitLearn
+DataStructures
+Algorithms
 end
 
-subgraph DEEP_LAYER["Deep Learning Layer"]
-C1(TensorFlow)
-C2(PyTorch)
-C3(Keras)
-C4(CNN)
-C5(NLP)
+subgraph Deep_Learning
+TensorFlow
+PyTorch
+Keras
+CNN
+NLP
 end
 
-subgraph OUTPUT_LAYER["Output Layer (Systems Built)"]
-D1(ML Systems)
-D2(AI Applications)
-D3(Algorithm Visualizers)
-D4(Generative AI Tools)
+subgraph Output_Systems
+MLSystems
+AIApplications
+Visualizers
+GenAITools
 end
 
-A1 --> B1
-A2 --> B4
-A3 --> B4
-A4 --> B2
+Python --> NumPy
+Java --> DataStructures
+C --> DataStructures
+SQL --> Pandas
 
-B1 --> C1
-B2 --> C2
-B3 --> C3
-B4 --> C4
-B5 --> C5
+NumPy --> TensorFlow
+Pandas --> PyTorch
+ScikitLearn --> Keras
+DataStructures --> CNN
+Algorithms --> NLP
 
-C1 --> D1
-C2 --> D2
-C3 --> D3
-C4 --> D4
-
-# 🧭 Current Focus
-
-- Building **interactive learning tools for algorithms**
-- Understanding **neural network internals**
-- Experimenting with **generative AI systems**
-
----
-
-# 🧠 Random AI Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
+TensorFlow --> MLSystems
+PyTorch --> AIApplications
+Keras --> Visualizers
+CNN --> GenAITools
