@@ -136,6 +136,26 @@ Improving DSA visualizer
 
 ---
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+---
+
+# 🧠 Random AI Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
 # 🧠 ML Skill Neural Network
 
 ```mermaid
