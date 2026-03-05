@@ -28,6 +28,14 @@ https://github.com/VasuML07
 
 ---
 
+---
+
+# 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VasuML07&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 # 🚀 Featured Projects
 
 ## 🧠 DSA Trainer
