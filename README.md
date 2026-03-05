@@ -142,7 +142,7 @@ Improving DSA visualizer
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight)
+
 
 ---
 
