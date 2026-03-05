@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb&height=200&section=header&text=Vasu%20Margana&fontSize=40)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40&fontColor=ffffff)
 # Hi, I'm Vasu 👋
 
 <p align="center">
