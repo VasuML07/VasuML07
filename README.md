@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vasu%20Margana&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40)
 
 # Hi, I'm Vasu 👋
 
@@ -136,73 +136,40 @@ Improving DSA visualizer
 
 ---
 
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight)
+
 ---
+
+# 📈 Contribution Activity
+
+[![Vasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=tokyo-night)](https://github.com/VasuML07)
+
+---
+
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/output/github-contribution-grid-snake.svg" />
-</p>
+![snake gif](https://github.com/VasuML07/VasuML07/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
 ---
+
+
+# 🧭 Current Focus
+
+- Building **interactive learning tools for algorithms**
+- Understanding **neural network internals**
+- Experimenting with **generative AI systems**
 
 ---
 
 # 🧠 Random AI Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-# 🧠 ML Skill Neural Network
-
-```mermaid
-flowchart LR
-
-subgraph Input_Layer
-Python
-Java
-C
-SQL
-end
-
-subgraph Core_Tools
-NumPy
-Pandas
-ScikitLearn
-DataStructures
-Algorithms
-end
-
-subgraph Deep_Learning
-TensorFlow
-PyTorch
-Keras
-CNN
-NLP
-end
-
-subgraph Output_Systems
-MLSystems
-AIApplications
-Visualizers
-GenAITools
-end
-
-Python --> NumPy
-Java --> DataStructures
-C --> DataStructures
-SQL --> Pandas
-
-NumPy --> TensorFlow
-Pandas --> PyTorch
-ScikitLearn --> Keras
-DataStructures --> CNN
-Algorithms --> NLP
-
-TensorFlow --> MLSystems
-PyTorch --> AIApplications
-Keras --> Visualizers
-CNN --> GenAITools
