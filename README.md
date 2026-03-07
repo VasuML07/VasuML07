@@ -136,24 +136,6 @@ Improving DSA visualizer
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight)
-
----
-
-# 📈 Contribution Activity
-
-[![Vasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=tokyo-night)](https://github.com/VasuML07)
-
----
-
----
-
 ---
 
 
