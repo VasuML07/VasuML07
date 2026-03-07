@@ -152,10 +152,6 @@ Improving DSA visualizer
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/VasuML07/VasuML07/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ---
