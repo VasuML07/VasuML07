@@ -33,15 +33,7 @@ Learning by **building systems and understanding how models work internally.**
 
 ---
 
-## 🔬 AI Lab Dashboard
 
-### Current Experiments
-
-- Neural networks implemented from first principles  
-- Algorithm visualization tools for DSA learning  
-- Prompt experimentation with diffusion models  
-
----
 
 ### Latest Experiments
 
