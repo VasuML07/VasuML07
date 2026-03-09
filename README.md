@@ -1,5 +1,3 @@
-<!-- ![logo](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=VasuML07&label=Profile%20views&color=0e75b6&style=flat" alt="VasuML07" /> 
 </p>
@@ -8,13 +6,13 @@
 
 Here, building **practical Machine Learning systems**, experimenting with **AI models**, and exploring the **mathematics behind neural networks**.
 
-Currently a **2nd year B.Tech student at VIT-AP University**, focused on:
+Currently a **2nd year B.Tech student at VIT-AP University** focused on:
 
 - Machine Learning Engineering  
 - Applied AI tools  
 - Data Structures & Algorithms  
 
-Learning by **building systems and understanding how models actually work internally.**
+Learning by **building systems and understanding how models work internally.**
 
 ---
 
@@ -57,19 +55,6 @@ Improving DSA visualizer
 
 ---
 
-## 🌐 Connect With Me
-
-**Portfolio**  
-https://vasu-margana-portfolio-tgw.caffeine.xyz/
-
-**LinkedIn**  
-https://www.linkedin.com/in/vasu-margana-49265031b/
-
-**GitHub**  
-https://github.com/VasuML07
-
----
-
 ## 📊 GitHub Stats
 
 <details>
@@ -85,6 +70,27 @@ https://github.com/VasuML07
 </details>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&hide_border=true" />
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+**Portfolio**  
+https://vasu-margana-portfolio-tgw.caffeine.xyz/
+
+**LinkedIn**  
+https://www.linkedin.com/in/vasu-margana-49265031b/
+
+**GitHub**  
+https://github.com/VasuML07
 
 ---
 
