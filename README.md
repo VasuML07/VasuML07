@@ -1,21 +1,63 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vasu%20Margana&fontSize=40)
+<!-- ![logo](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
 
-# Hi, I'm Vasu 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer+in+Progress;Building+Practical+AI+Projects;Exploring+Math+Behind+Neural+Networks;DSA+%2B+ML+%2B+Applied+AI" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=VasuML07&label=Profile%20views&color=0e75b6&style=flat" alt="VasuML07" /> 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VasuML07&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
+## 💫 About Me
 
-I build **practical Machine Learning systems** and explore the **mathematics behind AI models**.  
-Currently a **2nd year B.Tech student at VIT-AP University** focused on ML engineering and applied AI tools.
+Here, building **practical Machine Learning systems**, experimenting with **AI models**, and exploring the **mathematics behind neural networks**.
+
+Currently a **2nd year B.Tech student at VIT-AP University**, focused on:
+
+- Machine Learning Engineering  
+- Applied AI tools  
+- Data Structures & Algorithms  
+
+Learning by **building systems and understanding how models actually work internally.**
 
 ---
 
-# 🔗 Connect With Me
+## 🔭 Tech Stack
+
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 🔬 AI Lab Dashboard
+
+### Current Experiments
+
+- Neural networks implemented from first principles  
+- Algorithm visualization tools for DSA learning  
+- Prompt experimentation with diffusion models  
+
+---
+
+### Latest Experiments
+
+<!--START_SECTION:experiments-->
+
+Training CNN from scratch  
+Testing diffusion prompts  
+Improving DSA visualizer  
+
+<!--END_SECTION:experiments-->
+
+---
+
+## 🌐 Connect With Me
 
 **Portfolio**  
 https://vasu-margana-portfolio-tgw.caffeine.xyz/
@@ -28,126 +70,24 @@ https://github.com/VasuML07
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Stats
 
-## 🧠 DSA Trainer
+<details>
+<summary>Click to expand</summary>
+<br>
 
-Interactive platform to **learn algorithms through visualizations**.
+<img src="https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-**Live Demo**  
-https://dsa-trainer-orpin.vercel.app/
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight&hide_border=true" />
 
-**Repository**  
-https://github.com/VasuML07/DSA-Trainer
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight&hide_border=true" />
 
-**Features**
-- Algorithm visualizer  
-- Tree traversal walkthroughs  
-- Dynamic programming explanations  
-- Interactive learning UI  
+</details>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&hide_border=true" />
 
 ---
 
-## 🔬 Neural Network From Scratch
-
-A neural network implemented **without deep learning frameworks** to understand how learning actually works internally.
-
-**Core Components**
-- Forward propagation  
-- Backpropagation  
-- Gradient descent optimization  
-- ReLU and Sigmoid activations  
-- Training loop and loss calculation  
-
-**Tech**  
-Python • NumPy
-
-**Repository**  
-https://github.com/VasuML07/neural-network-from-scratch
-
----
-
-## 🎨 Text-to-Image Generator
-
-Application that converts **text prompts into images using diffusion models**.
-
-**Features**
-- Prompt → Image generation  
-- Guidance scale control  
-- Negative prompts  
-- Image preview and download  
-
-**Tech**  
-Python • PyTorch • HuggingFace Diffusers • Streamlit
-
-**Repository**  
-https://github.com/VasuML07/text-to-image-generator
-
----
-
-# 🔬 AI Lab Dashboard
-
-### Current Experiments
-
-- Neural networks implemented from first principles  
-- Algorithm visualization tools for DSA learning  
-- Prompt experimentation with diffusion models  
-
----
-
-### Latest Experiments (Auto Updated)
-
-<!--START_SECTION:experiments-->
-Training CNN from scratch  
-Testing diffusion prompts  
-Improving DSA visualizer  
-<!--END_SECTION:experiments-->
-
----
-
-# 🛠 Skills & Technologies
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### ML / AI Libraries
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### ML Concepts
-
-- Convolutional Neural Networks  
-- Natural Language Processing  
-- TF-IDF  
-- Tokenization  
-
----
-
----
-
-
-# 🧭 Current Focus
-
-- Building **interactive learning tools for algorithms**
-- Understanding **neural network internals**
-- Experimenting with **generative AI systems**
-
----
-
-# 🧠 Random AI Quote
+## 🧠 Random AI Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
