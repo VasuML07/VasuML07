@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">⚡ Vasu Avinash</h1>
-<h3 align="center">Building Real-World Machine Learning Systems</h3>
+<h3 align="center">Engineering Production-Ready Machine Learning Systems</h3>
 
 <p align="center">
   <a href="https://github.com/VasuML07"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
@@ -16,5 +16,9 @@
 ## 🧠 About Me
 
 ```diff
-+ I don't just train models
-+ I design systems that work in the real world
+- I don't just train models
++ I build end-to-end intelligent systems
+
++ From data → model → deployment → real-world impact
++ Focused on solving practical problems, not toy datasets
++ Obsessed with performance, scalability, and usability
