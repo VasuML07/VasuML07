@@ -1,7 +1,5 @@
 <h1 align="center">⚡ Vasu Avinash</h1>
-<h3 align="center">
-Building real-world machine learning systems • From data → deployment • Focused on performance & scalability
-</h3>
+<h3 align="center">Machine Learning • Systems • Performance</h3>
 
 ---
 
@@ -11,16 +9,12 @@ Building real-world machine learning systems • From data → deployment • Fo
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=VasuML07&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=VasuML07&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
-
-## 📉 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=tokyo-night&hide_border=true"/>
@@ -28,3 +22,32 @@ Building real-world machine learning systems • From data → deployment • Fo
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasuML07&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VasuML07&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VasuML07&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VasuML07&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VasuML07&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/output/github-contribution-grid-snake.svg" />
+</p>
