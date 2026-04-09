@@ -7,8 +7,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VasuML07&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=API&up_color=green&up_message=online&url=https://your-api-url.com/health"/>
+  <img src="https://komarev.com/ghpvc/?username=VasuML07&label=Views&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/VasuML07?style=social"/>
+  <img src="https://img.shields.io/github/stars/VasuML07?style=social"/>
 </p>
 
 ---
@@ -32,8 +33,15 @@
 
 ---
 
+<!-- 🔷 Summary Cards -->
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasuML07&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VasuML07&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VasuML07&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -43,19 +51,41 @@
 
 ---
 
-<!-- 📊 Live Project Dashboard -->
+<!-- 📌 Pinned Repo Cards -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VasuML07&repo=fakeprediction&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VasuML07&repo=NeuralNetworkfromscratch&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VasuML07&repo=Breast-Cancer-Classification-using-neural-network&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VasuML07&repo=Dna-classification-using-neural-networks&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- 📊 Quick Dashboards -->
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['v1','v2','v3','v4'],datasets:[{label:'Accuracy',data:[82,88,91,96]}]}}"/>
 </p>
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Precision','Recall','F1'],datasets:[{label:'Model',data:[93,96,95]}]}}"/>
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Accuracy','Precision','Recall','F1'],datasets:[{label:'Model',data:[95,93,96,95]}]}}"/>
 </p>
 
 ---
 
-<!-- 🤖 ML Graphs (auto-update when images exist in repo) -->
+<!-- ⏱️ Coding Activity (enable WakaTime to auto-fill) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- 🤖 ML Graphs -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/main/assets/confusion_matrix.png" width="400"/>
