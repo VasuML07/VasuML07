@@ -1,5 +1,10 @@
-<h1 align="center">⚡ Vasu Avinash</h1>
-<h3 align="center">Machine Learning • Systems • Performance</h3>
+<h1 align="center">
+  ⚡ Vasu Avinash
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Systems;From+Data+→+Deployment;Performance+%7C+Scalability+%7C+Real-World+Impact" />
+</p>
 
 ---
 
@@ -28,18 +33,11 @@
 
 ---
 
+<!-- 🔥 3D Contribution Graph -->
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasuML07&theme=tokyonight"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VasuML07&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VasuML07&theme=tokyonight"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VasuML07&theme=tokyonight"/>
@@ -47,6 +45,17 @@
 </p>
 
 ---
+
+<!-- 📊 Custom ML Graphs (auto-update ready) -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/main/assets/confusion_matrix.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/main/assets/roc_curve.png" width="400"/>
+</p>
+
+---
+
+<!-- 🐍 Snake -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/output/github-contribution-grid-snake.svg" />
