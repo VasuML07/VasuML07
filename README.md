@@ -12,14 +12,14 @@ Currently a **2nd year B.Tech student at VIT-AP University** focused on:
 - Applied AI Systems  
 - Data Structures & Algorithms  
 
-I care about **how models actually work internally**, not just using libraries.
+I care about **how systems work internally**, not just using libraries.
 
 ---
 
 ## 🧠 Currently
 
 - Building ML systems end-to-end (data → model → deployment)  
-- Practicing DSA daily (LeetCode + implementation)  
+- Practicing DSA daily  
 - Studying neural networks from scratch (math + intuition)  
 
 ---
@@ -35,12 +35,10 @@ I care about **how models actually work internally**, not just using libraries.
 ### 🎨 Text-to-Image Generator
 - Integrated Freepik API  
 - Prompt engineering + UI design  
-- Error handling for API failures  
-- Built interactive frontend  
+- Handles API failures gracefully  
 
 ### 📊 DSA Visualizer
-- Interactive algorithm visualization tool  
-- Helps students understand core concepts  
+- Interactive tool for understanding algorithms  
 - Focus on clarity + usability  
 
 ---
@@ -66,21 +64,99 @@ Focused on **real-world usability, not just accuracy**.
 
 ---
 
-## ⚠️ What Didn’t Work
+## 🔍 Failure Case Analysis
 
-- Naive Bayes → lower accuracy  
-- Switched to Logistic Regression → better generalization  
-- Learned: **feature engineering > model complexity**  
+- False Positives: Legit jobs flagged as fraud  
+- False Negatives: Fraud jobs missed  
+
+**Insight:** Improving data & features > changing models  
 
 ---
 
-## 🧠 Core Concepts
+## ⚠️ What Didn’t Work
 
-- Gradient Descent (math + intuition)  
-- Backpropagation  
+- Naive Bayes → lower accuracy  
+- Logistic Regression → better generalization  
+
+**Lesson:** Feature engineering matters more than model complexity  
+
+---
+
+## 🧠 How I Think
+
+- Optimize for **real-world impact**, not benchmarks  
+- Prefer **simple + strong systems** over complex ones  
+- Focus on **failure cases first**  
+- Build systems that are **deployable, not just trainable**  
+
+---
+
+## ⚡ Scaling Thought Experiment
+
+If this system scales to 1M users:
+
+- Serve model via API (FastAPI)  
+- Add caching for repeated inputs  
+- Batch predictions for efficiency  
+- Monitor model drift  
+- Log real-world failures  
+
+Focus: **reliability > raw accuracy**
+
+---
+
+## 🧪 Next Experiments
+
+- Train CNN from scratch  
+- Build mini transformer from scratch  
+- Compare TF-IDF vs embeddings  
+- Optimize inference latency  
+
+---
+
+## 🚫 What I Avoid
+
+- Blindly using large models  
+- Overfitting to benchmarks  
+- Building without real-world use  
+
+---
+
+## 🧠 Mental Models
+
+- Garbage In → Garbage Out  
 - Bias-Variance Tradeoff  
-- Overfitting & Regularization  
-- NLP Feature Engineering  
+- Simplicity scales better  
+- Measure what actually matters  
+
+---
+
+## 📈 Growth
+
+**Before**
+- Training models  
+
+**Now**
+- Building full ML systems  
+- Thinking about deployment & scaling  
+- Analyzing tradeoffs & failures  
+
+---
+
+## 🎯 Problems I Care About
+
+- Fraud / fake content detection  
+- Making AI tools practical  
+- Simplifying ML for learners  
+
+---
+
+## ⚡ If You Give Me a Problem
+
+- Break it into systems  
+- Identify constraints  
+- Build fast  
+- Iterate using feedback  
 
 ---
 
@@ -103,8 +179,8 @@ Focused on **real-world usability, not just accuracy**.
 
 ## 🏆 Proof of Work
 
-- Solved **150+ DSA problems**  
-- Built **5+ ML projects**  
+- Solved 150+ DSA problems  
+- Built 5+ ML projects  
 - Active GitHub contributor  
 
 ---
@@ -112,7 +188,7 @@ Focused on **real-world usability, not just accuracy**.
 ## ⏳ Consistency
 
 - Coding daily  
-- Building projects regularly  
+- Building regularly  
 - Learning in public  
 
 ---
