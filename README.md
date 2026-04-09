@@ -2,17 +2,85 @@
   <img src="https://komarev.com/ghpvc/?username=VasuML07&label=Profile%20views&color=0e75b6&style=flat" alt="VasuML07" /> 
 </p>
 
-## 💫 About Me
+# 💫 About Me
 
-Here, building **practical Machine Learning systems**, experimenting with **AI models**, and exploring the **mathematics behind neural networks**.
+I build **real-world Machine Learning systems**, not just models.
 
 Currently a **2nd year B.Tech student at VIT-AP University** focused on:
 
 - Machine Learning Engineering  
-- Applied AI tools  
+- Applied AI Systems  
 - Data Structures & Algorithms  
 
-Learning by **building systems and understanding how models work internally.**
+I care about **how models actually work internally**, not just using libraries.
+
+---
+
+## 🧠 Currently
+
+- Building ML systems end-to-end (data → model → deployment)  
+- Practicing DSA daily (LeetCode + implementation)  
+- Studying neural networks from scratch (math + intuition)  
+
+---
+
+## 🚀 Featured Projects
+
+### 🕵️ Fake Job Detection System
+- NLP + ML pipeline (TF-IDF + Logistic Regression)  
+- Achieved **97.8% accuracy**  
+- Built Streamlit web app  
+- Focus: real-world fraud detection  
+
+### 🎨 Text-to-Image Generator
+- Integrated Freepik API  
+- Prompt engineering + UI design  
+- Error handling for API failures  
+- Built interactive frontend  
+
+### 📊 DSA Visualizer
+- Interactive algorithm visualization tool  
+- Helps students understand core concepts  
+- Focus on clarity + usability  
+
+---
+
+## ⚙️ How I Build ML Systems
+
+1. Data Collection & Cleaning  
+2. Feature Engineering (TF-IDF, embeddings)  
+3. Model Selection & Training  
+4. Evaluation (Accuracy, Confusion Matrix)  
+5. Deployment (Streamlit / APIs)  
+
+Focused on **real-world usability, not just accuracy**.
+
+---
+
+## 📊 Model Insights
+
+- Accuracy: 97.8%  
+- Precision: High (low false positives)  
+- Recall: Balanced for fraud detection  
+- Evaluated using Confusion Matrix  
+
+---
+
+## ⚠️ What Didn’t Work
+
+- Naive Bayes → lower accuracy  
+- Switched to Logistic Regression → better generalization  
+- Learned: **feature engineering > model complexity**  
+
+---
+
+## 🧠 Core Concepts
+
+- Gradient Descent (math + intuition)  
+- Backpropagation  
+- Bias-Variance Tradeoff  
+- Overfitting & Regularization  
+- NLP Feature Engineering  
 
 ---
 
@@ -33,17 +101,19 @@ Learning by **building systems and understanding how models work internally.**
 
 ---
 
+## 🏆 Proof of Work
 
+- Solved **150+ DSA problems**  
+- Built **5+ ML projects**  
+- Active GitHub contributor  
 
-### Latest Experiments
+---
 
-<!--START_SECTION:experiments-->
+## ⏳ Consistency
 
-Training CNN from scratch  
-Testing diffusion prompts  
-Improving DSA visualizer  
-
-<!--END_SECTION:experiments-->
+- Coding daily  
+- Building projects regularly  
+- Learning in public  
 
 ---
 
@@ -65,9 +135,6 @@ Improving DSA visualizer
 
 ---
 
-
----
-
 ## 🌐 Connect With Me
 
 **Portfolio**  
@@ -81,6 +148,7 @@ https://github.com/VasuML07
 
 ---
 
-## 🧠 Random AI Quote
+## ⚡ Mindset
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I don’t just use AI models.  
+I break them, understand them, and rebuild them better.
