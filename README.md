@@ -1,8 +1,6 @@
-<details>
-<summary>📊 Stats (Click to expand)</summary>
+## 📊 GitHub Analytics
 
 <!-- 🧊 3D-Style Contribution / Deep Activity -->
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasuML07&theme=tokyonight"/>
 </p>
@@ -14,7 +12,7 @@
 
 ---
 
-<!-- 🧠 LeetCode Full Stats (with heatmap) -->
+## 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&ext=heatmap"/>
@@ -22,7 +20,7 @@
 
 ---
 
-<!-- 📊 Advanced Contribution Metrics -->
+## 📊 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight&hide_border=true"/>
@@ -30,7 +28,7 @@
 
 ---
 
-<!-- 📈 Language + Repo Depth -->
+## 📈 Languages & Repos
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VasuML07&theme=tokyonight"/>
@@ -38,5 +36,3 @@
 </p>
 
 ---
-
-</details>
