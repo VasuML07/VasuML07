@@ -1,3 +1,5 @@
+<details>
+<summary>📊 Stats (Click to expand)</summary>
 
 <!-- 🧊 3D-Style Contribution / Deep Activity -->
 
@@ -37,4 +39,4 @@
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=tokyo-night)
+</details>
