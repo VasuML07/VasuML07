@@ -63,87 +63,148 @@ me.say_hi()
 
 ---
 
-## 🚀 What I'm Working On
+## ⚡ Currently
 
-| Area | Description |
-|------|-------------|
-| 🧠 **Classical ML** | Supervised & unsupervised learning — SVM, Random Forest, XGBoost, Ensemble methods |
-| 🔬 **Deep Learning** | CNNs, RNNs, LSTMs, Transformers for computer vision & NLP tasks |
-| 👁️ **Computer Vision** | Image classification, object detection, image segmentation with OpenCV & TensorFlow |
-| 💬 **NLP** | Text classification, sentiment analysis, sequence models with embeddings |
-| 🧩 **Problem Solving** | Daily LeetCode grind — sharpening DSA & analytical thinking |
-| 📊 **Data Science** | Feature engineering, hyperparameter tuning, exploratory data analysis |
+<table>
+<tr>
+<td width="50%">
+
+**🔨 Working on**
+→ NLP-based fraud detection systems
+→ Neural network implementations from scratch
+→ Multi-modal AI applications
+
+</td>
+<td width="50%">
+
+**📚 Learning**
+→ RAG architectures & vector databases
+→ Transformer fine-tuning techniques
+→ MLOps & model deployment
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔭 Exploring**
+→ Multimodal AI (vision + language)
+→ Efficient fine-tuning (LoRA, QLoRA)
+→ Open-source AI contributions
+
+</td>
+<td width="50%">
+
+**🧩 Grinding**
+→ Daily LeetCode problem solving
+→ DSA patterns & system design
+→ ML interview preparation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Proof of Work
+
+### What I Can Build
+
+| Capability | Stack |
+|-----------|-------|
+| 🔍 **Text Classification & NLP** | TF-IDF, Word2Vec, Transformers, BERT |
+| 🧬 **Bioinformatics ML** | Neural Networks on DNA/genomic sequences |
+| 👁️ **Computer Vision** | Face Detection, CNN-based image classification |
+| 🎙️ **Speech-to-Image Pipeline** | Vosk ASR + text-to-image generation |
+| 🧱 **ML From Scratch** | Linear/Logistic Regression, Neural Nets — zero frameworks |
+| 📊 **End-to-End ML Pipelines** | Data cleaning → feature engineering → model → evaluation |
+
+### What I Have Built
+
+| # | Project | Domain | Repo |
+|:-:|---------|--------|------|
+| 1 | Fake Job Prediction — NLP fraud detection with TF-IDF & Word2Vec | NLP | [fakeprediction](https://github.com/VasuML07/fakeprediction) |
+| 2 | Neural Network from Scratch — Dense layers, backprop, optimizers in pure NumPy | Deep Learning | [NeuralNetworkfromscratch](https://github.com/VasuML07/NeuralNetworkfromscratch) |
+| 3 | Speech-to-Image — Offline audio→text→image pipeline with Vosk | Multimodal AI | [speech-to-image](https://github.com/VasuML07/speech-to-image) |
+| 4 | DNA Sequence Classification — NN-based genomic pattern analysis | Bioinformatics | [Dna-classification-using-neural-networks](https://github.com/VasuML07/Dna-classification-using-neural-networks) |
+| 5 | Breast Cancer Classification — Neural network for medical diagnosis | Healthcare ML | [Breast-Cancer-Classification-using-neural-network](https://github.com/VasuML07/Breast-Cancer-Classification-using-neural-network) |
+| 6 | Face Detection System — Real-time face detection pipeline | Computer Vision | [Face_Detection](https://github.com/VasuML07/Face_Detection) |
+| 7 | Text-to-Image Generation — AI-powered text→image conversion | Generative AI | [text-to-image](https://github.com/VasuML07/text-to-image) |
+| 8 | MSNIT-CNN — Custom CNN architecture for image recognition | Deep Learning | [MSNIT-CNN](https://github.com/VasuML07/MSNIT-CNN) |
+| 9 | ML Algorithms from Scratch — Linear & Logistic Regression without libraries | Classical ML | [MachineLearningProblems](https://github.com/VasuML07/MachineLearningProblems) |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 RAG-Powered AI Chatbot
+### 🎯 Fake Job Prediction — NLP Fraud Detection
 <details>
-<summary><b>🤖 Intelligent Document Q&A System</b> &nbsp; <img src="https://img.shields.io/badge/Domain-RAG%20%2F%20NLP-9333ea?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></summary>
+<summary><b>🔍 Detecting fraudulent job postings using NLP & ML</b> &nbsp; <img src="https://img.shields.io/badge/Domain-NLP%20%2F%20Classification-9333ea?style=flat-square"/> <img src="https://img.shields.io/badge/Stars-1-f59e0b?style=flat-square"/></summary>
 <br/>
 
-> Retrieval-Augmented Generation system that answers questions from custom document knowledge bases.
+> End-to-end NLP pipeline that classifies job postings as real or fraudulent using text preprocessing and ML classification.
 
-**🔧 Tech:** Python · LangChain · OpenAI API · ChromaDB · Streamlit · Sentence-Transformers
+**🔧 Tech:** Python · Scikit-learn · TF-IDF · Word2Vec · NLP · Pandas · Matplotlib
 
-- Built a **RAG pipeline** using FAISS vector store with semantic chunking & embedding retrieval
-- Implemented **retrieval-relevance scoring** to rank top-k passages by cosine similarity
-- Achieved **contextually accurate responses** with reduced hallucination via source-grounded generation
-- Deployed an interactive **Streamlit UI** with real-time query & response visualization
+- Built complete **text preprocessing pipeline** — cleaning, tokenization, stop-word removal, lemmatization
+- Engineered features using **TF-IDF vectorization** and **Word2Vec embeddings** for semantic representation
+- Trained and compared **multiple classifiers** to identify the best-performing model for fraud detection
+- End-to-end pipeline: raw job data → clean text → feature extraction → classification → evaluation
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07/fakeprediction)
 </details>
 
-### 👁️ Real-Time Object Detection System
+### 🧠 Neural Networks from Scratch
 <details>
-<summary><b>🔍 YOLO-based Object Detection & Tracking</b> &nbsp; <img src="https://img.shields.io/badge/Domain-Computer%20Vision-5C3EE8?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></summary>
+<summary><b>🧱 Deep learning fundamentals — no frameworks, just Python & NumPy</b> &nbsp; <img src="https://img.shields.io/badge/Domain-Deep%20Learning-EE4C2C?style=flat-square"/></summary>
 <br/>
 
-> Real-time object detection and multi-object tracking across video streams.
+> Modular implementation of neural networks from first principles — dense layers, activations, backpropagation, and optimizers.
 
-**🔧 Tech:** Python · PyTorch · YOLOv8 · OpenCV · Roboflow · NumPy
+**🔧 Tech:** Python · NumPy — zero ML frameworks
 
-- Trained a **YOLOv8 model** on custom datasets for domain-specific object detection
-- Achieved **92%+ mAP@0.5** on validation set with data augmentation pipeline
-- Implemented **real-time inference pipeline** with OpenCV for live video stream processing
-- Built a detection dashboard showing **bounding boxes, confidence scores & object counts**
+- Implemented **Dense (Fully Connected) layers** with forward & backward pass from scratch
+- Built **activation functions**: ReLU, Sigmoid, Softmax — with proper gradient computation
+- Coded **backpropagation algorithm** manually to understand how gradients flow through networks
+- Created modular **optimizers**: SGD with momentum — demystifying the math behind model training
+- Designed to work on any dataset — a true learning resource for understanding NN internals
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07/NeuralNetworkfromscratch)
 </details>
 
-### 💬 NLP Sentiment Analysis with Transformers
+### 🎙️ Speech-to-Image Pipeline
 <details>
-<summary><b>🎯 Fine-Tuned Transformer for Sentiment Classification</b> &nbsp; <img src="https://img.shields.io/badge/Domain-NLP%20%2F%20Transformers-FFAA00?style=flat-square"/> <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=flat-square&logo=huggingface&logoColor=black"/></summary>
+<summary><b>🎙️ Offline audio → text → image generation system</b> &nbsp; <img src="https://img.shields.io/badge/Domain-Multimodal%20AI-FFAA00?style=flat-square"/></summary>
 <br/>
 
-> Fine-tuned BERT-based model for multi-class sentiment analysis on review datasets.
+> Streamlit application that converts spoken audio to text using Vosk, then generates an image from the recognized text.
 
-**🔧 Tech:** Python · Hugging Face Transformers · BERT · PyTorch · Scikit-learn · Matplotlib
+**🔧 Tech:** Python · Streamlit · Vosk (offline ASR) · Text-to-Image
 
-- Fine-tuned **DistilBERT** on IMDB reviews for binary sentiment classification
-- Achieved **94% accuracy** on test set with learning rate scheduling & gradient checkpointing
-- Compared performance against **SVM, LSTM & Naive Bayes** baselines — BERT outperformed by 12%
-- Visualized **attention maps & token importance** for model interpretability
+- Built a **fully offline application** — no API keys required, runs entirely locally
+- Used **Vosk speech recognition model** for accurate audio-to-text conversion
+- Implemented **text-to-image generation** from recognized speech output
+- Supports **PNG and PDF downloads** — practical for learning, demos & academic use
+- Clean **Streamlit UI** with real-time processing feedback
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07/speech-to-image)
 </details>
 
-### 📊 ML-Powered Prediction System
+### 🧬 DNA Sequence Classification
 <details>
-<summary><b>📈 Predictive Analytics Engine with Ensemble Models</b> &nbsp; <img src="https://img.shields.io/badge/Domain-Classical%20ML-F7931E?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></summary>
+<summary><b>🧬 Neural network-based genomic sequence analysis</b> &nbsp; <img src="https://img.shields.io/badge/Domain-Bioinformatics-22c55e?style=flat-square"/></summary>
 <br/>
 
-> End-to-end ML pipeline for predicting outcomes using ensemble learning techniques.
+> Classifies DNA sequences by analyzing genetic patterns using TensorFlow/Keras neural networks.
 
-**🔧 Tech:** Python · Scikit-learn · XGBoost · LightGBM · Pandas · Plotly
+**🔧 Tech:** Python · TensorFlow · Keras · NumPy · Pandas
 
-- Built an **automated ML pipeline** with preprocessing, feature selection & model training
-- Tested **Random Forest, XGBoost, LightGBM & CatBoost** — stacked ensemble achieved best results
-- Performed **hyperparameter tuning** with Optuna achieving 15% improvement over baseline
-- Deployed interactive **Plotly dashboards** with feature importance & prediction visualizations
+- Preprocessed **DNA sequence data** — encoding nucleotide bases into numerical features
+- Built and trained a **neural network** to classify DNA sequence types
+- Analyzed **genetic patterns** for accurate sequence type prediction
+- Applied ML to **bioinformatics** — bridging computer science and genomics
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07/Dna-classification-using-neural-networks)
 </details>
 
 ---
@@ -151,31 +212,24 @@ me.say_hi()
 ## 🧩 Project Deep Dive
 
 <details>
-<summary><b>🔧 RAG-Powered AI Chatbot — Architecture & Build</b> &nbsp; <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square"/></summary>
+<summary><b>🔍 Fake Job Prediction — Full Architecture Breakdown</b> &nbsp; <img src="https://img.shields.io/badge/Stars-1-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/Domain-NLP-9333ea?style=flat-square"/></summary>
 
 ### 🎯 Problem
-Generic LLMs hallucinate and lack domain-specific knowledge. Users need accurate, source-backed answers from their own documents.
+Online job platforms are flooded with fraudulent postings that mislead job seekers. Detecting fake listings manually is impossible at scale — an automated NLP-based system is needed.
 
 ### 🏗️ Architecture (Step-by-Step)
 
 | Step | Component | Description |
 |:----:|-----------|-------------|
-| 1️⃣ | **Document Ingestion** | PDFs, text files & URLs are loaded and parsed |
-| 2️⃣ | **Chunking** | Text split into semantic chunks (512 tokens, 50 overlap) |
-| 3️⃣ | **Embedding** | Chunks converted to vectors via Sentence-Transformers (all-MiniLM-L6-v2) |
-| 4️⃣ | **Vector Store** | Embeddings stored in ChromaDB for fast similarity search |
-| 5️⃣ | **Retrieval** | User query → embedding → top-k relevant chunks retrieved via cosine similarity |
-| 6️⃣ | **Generation** | Retrieved context + query passed to LLM for grounded answer generation |
-| 7️⃣ | **UI Layer** | Streamlit frontend with chat interface & source citation display |
+| 1️⃣ | **Data Ingestion** | Raw job posting dataset loaded — text fields: title, description, requirements, company_profile |
+| 2️⃣ | **Text Preprocessing** | Lowercasing, punctuation removal, stop-word removal, tokenization, lemmatization |
+| 3️⃣ | **Feature Extraction** | TF-IDF vectorization for sparse representation + Word2Vec for dense semantic embeddings |
+| 4️⃣ | **Model Training** | Multiple classifiers trained: Naive Bayes, SVM, Random Forest, Gradient Boosting |
+| 5️⃣ | **Evaluation** | Accuracy, Precision, Recall, F1-Score — compared across all models |
+| 6️⃣ | **Analysis** | Feature importance, misclassification analysis, confusion matrix visualization |
 
 ### 🧰 Tools Used
-`Python` · `LangChain` · `OpenAI GPT API` · `ChromaDB` · `Sentence-Transformers` · `Streamlit` · `PyPDF2`
-
-### 📈 Outcome
-- ✅ 85%+ retrieval relevance on domain-specific queries
-- ✅ Near-zero hallucination with source-grounded generation
-- ✅ Sub-2 second end-to-end response latency
-- ✅ Scalable to 1000+ documents with minimal configuration
+`Python` · `Scikit-learn` · `NLTK` · `Gensim (Word2Vec)` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
 </details>
 
@@ -235,6 +289,8 @@ Generic LLMs hallucinate and lack domain-specific knowledge. Users need accurate
   <img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
+<i>Consistent problem solving with focus on DSA patterns — arrays, strings, trees, graphs & dynamic programming.</i>
+
 ---
 
 ## 🏆 Achievements
@@ -250,29 +306,12 @@ Generic LLMs hallucinate and lack domain-specific knowledge. Users need accurate
 
 | Milestone | Details |
 |-----------|--------|
-| 🧩 **LeetCode Grind** | 250+ problems solved — actively sharpening DSA & analytical skills daily |
-| 🤖 **ML Projects Built** | 10+ end-to-end AI/ML projects spanning CV, NLP, RAG & classical ML |
-| 📊 **CGPA** | **7.94** at VIT-AP University — strong academic foundation in CS & ML |
-| 🏅 **Consistency** | 60+ day GitHub contribution streak — committed to daily learning |
-| 📚 **Self-Learner** | Deep Learning Specialization · NLP with Transformers · Prompt Engineering |
-| 🔬 **Research Interest** | RAG systems, multimodal AI & applied machine learning |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight&hide_border=true"/>
-
-</div>
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+| 🤖 **ML Projects Built** | 9+ real repos on GitHub — NLP, CV, Bioinformatics, Generative AI, Classical ML |
+| 🧩 **LeetCode Grind** | Active problem solver — consistent DSA practice with focus on patterns |
+| 📊 **CGPA** | **7.94** at VIT-AP University |
+| 🏅 **Consistency** | Maintained GitHub contribution streak — committed to daily learning |
+| 📚 **Self-Learner** | Built neural networks from scratch, explored RAG, Transformers & multimodal AI |
+| 🔬 **Research Interest** | RAG systems, applied NLP, bioinformatics ML & computer vision |
 
 ---
 
@@ -311,27 +350,34 @@ Generic LLMs hallucinate and lack domain-specific knowledge. Users need accurate
 
 ---
 
-## 🎯 Goals & Roadmap — 2026
+## 🎯 Roadmap
 
-| Timeline | Goal |
-|----------|------|
-| 🌅 **Q1** | Master RAG architectures & deploy 2+ production-grade AI applications |
-| 🌿 **Q2** | Publish first research project — target: NLP or Computer Vision domain |
-| ☀️ **Q3** | Complete Deep Learning Specialization & earn relevant certifications |
-| 🍂 **Q4** | Crack AI/ML engineering internship at a top tech company |
-| 🔥 **Ongoing** | 500+ LeetCode problems · 15+ ML projects · Contribute to open-source AI repos |
+- 🎯 **Short-term** → Master RAG architectures & deploy production-grade AI applications
+- 📄 **Research** → Publish a project in NLP or Computer Vision domain
+- 🏢 **Internship** → Target AI/ML engineering roles at product companies
+- 🔥 **Ongoing** → Daily LeetCode · Build real ML systems · Contribute to open-source AI
 
 ---
 
 ## 💡 Why Me?
 
+> A quick signal check for recruiters & collaborators.
+
 ```
-✦ ML + DSA        → Strong foundation in both machine learning algorithms AND data structures
-✦ Project-Driven   → 10+ hands-on projects — not just theory, but real systems that work
-✦ Consistency      → Daily LeetCode + GitHub streaks prove discipline & dedication
-✦ Full-Stack ML    → From data collection → model training → deployment to interactive UIs
-✦ Fast Learner     → Self-taught RAG, Transformers, NLP — always leveling up
-✦ Team Player      → Open to collaborations, code reviews & research partnerships
+✦ Builder, not tutorial-follower
+   → 9+ real repos — NLP fraud detection, neural nets from scratch, DNA classification, speech-to-image
+
+✦ Understands ML from the ground up
+   → Built linear regression, logistic regression & full neural networks with zero frameworks
+
+✦ DSA consistency
+   → Active LeetCode problem solver — patterns over memorization
+
+✦ Diverse AI exposure
+   → NLP · Computer Vision · Bioinformatics · Generative AI · Multimodal systems
+
+✦ Ships full pipelines
+   → Not just notebooks — complete data → model → evaluation → deployment workflows
 ```
 
 ---
