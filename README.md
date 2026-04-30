@@ -160,11 +160,6 @@ me.say_hi()
 | 8 | MSNIT-CNN — Custom CNN architecture for image recognition | Deep Learning | [MSNIT-CNN](https://github.com/VasuML07/MSNIT-CNN) |
 | 9 | ML Algorithms from Scratch — Linear & Logistic Regression without libraries | Classical ML | [MachineLearningProblems](https://github.com/VasuML07/MachineLearningProblems) |
 
-<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
-
----
-
 <!-- ═══════════════════════════════════════════ FEATURED PROJECTS ══════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🚀%20Featured%20Projects&fontSize=28&fontColor=f97316&animation=fadeIn&fontAlignY=32"/>
@@ -240,11 +235,6 @@ me.say_hi()
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07/Dna-classification-using-neural-networks)
 </details>
-
-<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0d1117&height=80&section=footer"/>
-
----
 
 <!-- ═══════════════════════════════════════════ PROJECT DEEP DIVE ══════════════════════════════════════════ -->
 
