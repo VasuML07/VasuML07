@@ -117,7 +117,6 @@ me.say_hi()
 | 👁️ **Computer Vision** | Face Detection, CNN-based image classification |
 | 🎙️ **Speech-to-Image Pipeline** | Vosk ASR + text-to-image generation |
 | 🧱 **ML From Scratch** | Linear/Logistic Regression, Neural Nets — zero frameworks |
-| 📊 **End-to-End ML Pipelines** | Data cleaning → feature engineering → model → evaluation |
 
 ### What I Have Built
 
@@ -275,12 +274,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🎨 All Icons at a Glance
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,typescript,r,tensorflow,pytorch,sklearn,opencv,docker,git,linux,vscode,github,mysql&perline=9" />
-</p>
-
 ---
 
 ## 🧠 LeetCode Stats
@@ -301,8 +294,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 
 <img src="https://img.shields.io/badge/CGPA-7.94_🏆-f59e0b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University-VIT--AP_University-38bdf8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Year-2nd_Year-22c55e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-AI_%2F_ML_Engineering-9333ea?style=for-the-badge"/>
 
 </div>
 
@@ -317,22 +308,11 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 
 ---
 
-## 📈 Languages & Repos
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VasuML07&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VasuML07&theme=tokyonight"/>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f59e0b&area=true&hide_border=true"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasuML07&theme=github_dark"/>
 
 </div>
 
@@ -377,9 +357,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 
 ✦ Diverse AI exposure
    → NLP · Computer Vision · Bioinformatics · Generative AI · Multimodal systems
-
-✦ Ships full pipelines
-   → Not just notebooks — complete data → model → evaluation → deployment workflows
 ```
 
 ---
@@ -397,18 +374,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
-*"The best way to predict the future is to create it." — Peter Drucker*
-
-<br/>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTZoNmVrNGl0eTJ2NTY3dzQwZmk3NWNzOHA2Zmozb2U0M3Q2NzdyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iP8P6sbQTrmMM/giphy.gif" width="500"/>
-
-<br/><br/>
 
 ⭐ **Star my repos if you enjoy my work!** &nbsp;|&nbsp; Always open to **AI · ML · Deep Learning · Research Collaborations**
 
