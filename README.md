@@ -285,11 +285,33 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 
 ## 🧠 LeetCode Stats
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&radius=8" width="100%"/>
 </p>
 
-<i>Consistent problem solving with focus on DSA patterns — arrays, strings, trees, graphs & dynamic programming.</i>
+</td>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&ext=heatmap&hide_rank=true&radius=8" width="100%"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Consistency-Active_Daily-brightgreen?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Focus-DSA_·_Patterns_·_Optimization-38bdf8?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>Building strong foundations through daily algorithmic problem solving.</i>
+</p>
 
 ---
 
