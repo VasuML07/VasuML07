@@ -180,7 +180,7 @@ me.say_hi()
 
 ## 📊 3D Contributions
 
-![](https://raw.githubusercontent.com/VasuML07/profile-3d-contrib/main/profile-night-rainbow.svg)
+![](https://raw.githubusercontent.com/VasuML07/profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
