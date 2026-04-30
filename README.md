@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Vasu%20Margana&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=94a3b8&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Vasu%20Margana&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Problem%20Solver&descAlignY=60&descColor=94a3b8&descSize=18"/>
 
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Problem+Solver;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20/%20ML%20Engineer;Deep%20Learning%20Developer;Classical%20ML%20Practitioner;Problem%20Solver%20%7C%20LeetCode&center=true&width=600&height=45">
 </p>
 
 
@@ -21,6 +21,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasumargana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-margana-49265031b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/coder_2028/)
 
 <br/>
 
@@ -31,8 +32,8 @@
 
 <br/>
 
-<i><b>Hey there! I'm a developer & tech enthusiast from 🇮🇳 India, crafting code to solve real-world problems.</b></i><br/>
-<i>Building projects with passion, solving problems on LeetCode, and contributing to open source.</i>
+<i><b>Hey there! I'm an AI/ML enthusiast from 🇮🇳 India, passionate about building intelligent systems.</b></i><br/>
+<i>From classical ML algorithms to deep neural networks, I love turning data into insights.</i>
 
 </div>
 
@@ -45,14 +46,16 @@ class VasuMargana:
     def __init__(self):
         self.name       = "Vasu Margana"
         self.location   = "India 🇮🇳"
-        self.role       = ["Full Stack Developer", "Problem Solver", "Open Source Contributor"]
-        self.languages  = ["Python", "Java", "JavaScript", "TypeScript", "C++"]
-        self.interests  = ["Web Development", "Machine Learning", "Open Source", "Problem Solving"]
-        self.currently  = "Building projects & solving problems on LeetCode"
-        self.open_to    = "Collaborations · Open Source · Full Stack ⭐"
+        self.university = "VIT-AP University"
+        self.role       = ["AI/ML Engineer", "Deep Learning Developer", "Classical ML Practitioner"]
+        self.languages  = ["Python", "Java", "JavaScript", "SQL", "R"]
+        self.ml_tools   = ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV"]
+        self.interests  = ["Machine Learning", "Deep Learning", "Computer Vision", "NLP", "Problem Solving"]
+        self.currently  = "Building ML models & solving problems on LeetCode"
+        self.open_to    = "AI · ML · Deep Learning · Research Collaborations ⭐"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for dropping by! Let's build something intelligent together 🚀")
 
 me = VasuMargana()
 me.say_hi()
@@ -64,11 +67,12 @@ me.say_hi()
 
 | Area | Description |
 |------|-------------|
-| 🌐 **Web Development** | Building modern, responsive web applications with React, Next.js & Tailwind CSS |
-| 🧠 **Machine Learning** | Exploring AI/ML concepts and building intelligent applications |
-| 🧩 **Problem Solving** | Actively solving problems on LeetCode — sharpening DSA skills daily |
-| 📂 **Open Source** | Contributing to open-source projects and sharing knowledge with the community |
-| 🛠️ **Full Stack** | End-to-end development from frontend UI to backend APIs & databases |
+| 🧠 **Classical ML** | Supervised & unsupervised learning — SVM, Random Forest, XGBoost, Ensemble methods |
+| 🔬 **Deep Learning** | CNNs, RNNs, LSTMs, Transformers for computer vision & NLP tasks |
+| 👁️ **Computer Vision** | Image classification, object detection, image segmentation with OpenCV & TensorFlow |
+| 💬 **NLP** | Text classification, sentiment analysis, sequence models with embeddings |
+| 🧩 **Problem Solving** | Daily LeetCode grind — sharpening DSA & analytical thinking |
+| 📊 **Data Science** | Feature engineering, hyperparameter tuning, exploratory data analysis |
 
 ---
 
@@ -77,36 +81,45 @@ me.say_hi()
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🤖 AI / ML
+### 🤖 Deep Learning Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 📊 Classical ML & Data Science
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🧮 ML Algorithms & Techniques
+![XGBoost](https://img.shields.io/badge/XGBoost-1A8FFF?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-7C5CFC?style=for-the-badge&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-4EA24B?style=for-the-badge&logo=catboost&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logo=nltk&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A7D3?style=for-the-badge&logo=spacy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ☁️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🎨 All Icons at a Glance
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwindcss,js,typescript,cpp,react,nodejs,nextjs,express,tensorflow,sklearn,docker,git,linux,vscode,vercel,github&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,java,js,typescript,r,tensorflow,pytorch,sklearn,opencv,docker,git,linux,vscode,github,mysql&perline=9" />
 </p>
 
 ---
@@ -160,7 +173,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/VasuML07/VasuML07/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/VasuML07/VasuML07/output/github-contribution-grid-snake.svg" alt="snake contribution graph">
 </p>
 
 ---
@@ -177,6 +190,7 @@ me.say_hi()
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasumargana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-margana-49265031b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/coder_2028/)
 
 </div>
 
@@ -188,7 +202,7 @@ me.say_hi()
 
 <br/><br/>
 
-*"Code is like humor: when you have to explain it, it's bad." — Cory House*
+*"The best way to predict the future is to create it." — Peter Drucker*
 
 <br/>
 
@@ -196,7 +210,7 @@ me.say_hi()
 
 <br/><br/>
 
-⭐ **Star my repos if you enjoy my work!** &nbsp;|&nbsp; Always open to **Collaborations · Open Source · Full Stack**
+⭐ **Star my repos if you enjoy my work!** &nbsp;|&nbsp; Always open to **AI · ML · Deep Learning · Research Collaborations**
 
 <br/>
 
