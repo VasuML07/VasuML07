@@ -1,45 +1,59 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Vasu%20Margana&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Problem%20Solver&descAlignY=60&descColor=94a3b8&descSize=18"/>
+<!-- ✨✨✨ ENHANCED HERO BANNER ✨✨✨ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=280&section=header&text=Vasu%20Margana&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Problem%20Solver&descAlignY=58&descColor=c084fc&descSize=18"/>
 
-<!-- TYPING ANIMATION -->
-
+<!-- 🔄 MULTI-LINE TYPING ANIMATION 🔄 -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20/%20ML%20Engineer;Deep%20Learning%20Developer;Classical%20ML%20Practitioner;Problem%20Solver%20%7C%20LeetCode&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20/%20ML%20Engineer;Deep%20Learning%20Developer;Classical%20ML%20Practitioner;Problem%20Solver%20%7C%20LeetCode;NLP%20%7C%20Computer%20Vision%20%7C%20Bioinformatics;Open%20Source%20Contributor&center=true&width=650&height=55">
 </p>
-
 
 <br/>
 
-<!-- GIF -->
+<!-- 🎬 HERO GIF -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2treGo2MWlsMm41bTYzZjJqNWs1dWdtcmNiaHRzeTdrMm9laGl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ff54BctkWA5ry/giphy.gif" width="420"/>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasumargana.vercel.app/)
+<!-- 🌐 SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasumargana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-margana-49265031b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/coder_2028/)
 
 <br/>
 
-<!-- STATS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=VasuML07&label=Profile+Views&color=38bdf8&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/VasuML07?label=Followers&style=flat-square&color=38bdf8)
-![GitHub stars](https://img.shields.io/github/stars/VasuML07?label=Total+Stars&style=flat-square&color=f59e0b)
+<!-- 📊 STATS BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=VasuML07&label=PROFILE+VIEWS&color=38bdf8&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/VasuML07?label=FOLLOWERS&style=flat-square&color=c084fc)
+![GitHub stars](https://img.shields.io/github/stars/VasuML07?label=STARS&style=flat-square&color=f59e0b)
+![GitHub repos](https://img.shields.io/github/repos/VasuML07?label=REPOS&style=flat-square&color=22c55e)
 
 <br/>
 
-<i><b>Hey there! I'm an AI/ML enthusiast from 🇮🇳 India, passionate about building intelligent systems.</b></i><br/>
-<i>From classical ML algorithms to deep neural networks, I love turning data into insights.</i>
+<!-- 🏷️ STATUS BADGES -->
+<img src="https://img.shields.io/badge/🎯_Focus-AI_%2F_ML_Engineering-9333ea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔥_Status-Building_and_Learning-f97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_University-VIT--AP_University-38bdf8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Location-India-22c55e?style=for-the-badge"/>
+
+<br/>
+
+<i><b>🧠 AI/ML enthusiast from 🇮🇳 India — building intelligent systems from classical ML to deep neural networks.</b></i><br/>
+<i>Turning data into insights, one model at a time.</i>
 
 </div>
 
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0d1117&height=100&section=footer"/>
+
 ---
 
-## 🙋‍♂️ About Me
+<!-- ═══════════════════════════════════════════ ABOUT ME ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🙋‍♂️%20About%20Me&fontSize=28&fontColor=38bdf8&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
 
 ```python
 class VasuMargana:
@@ -61,9 +75,16 @@ me = VasuMargana()
 me.say_hi()
 ```
 
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
+
 ---
 
-## ⚡ Currently
+<!-- ═══════════════════════════════════════════ CURRENTLY ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=⚡%20Currently&fontSize=28&fontColor=f59e0b&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
 
 <table>
 <tr>
@@ -104,11 +125,18 @@ me.say_hi()
 </tr>
 </table>
 
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:16213e&height=80&section=footer"/>
+
 ---
 
-## 🧠 Proof of Work
+<!-- ═══════════════════════════════════════════ PROOF OF WORK ══════════════════════════════════════════ -->
 
-### What I Can Build
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🧠%20Proof%20of%20Work&fontSize=28&fontColor=c084fc&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
+
+### 🔥 What I Can Build
 
 | Capability | Stack |
 |-----------|-------|
@@ -118,7 +146,7 @@ me.say_hi()
 | 🎙️ **Speech-to-Image Pipeline** | Vosk ASR + text-to-image generation |
 | 🧱 **ML From Scratch** | Linear/Logistic Regression, Neural Nets — zero frameworks |
 
-### What I Have Built
+### 🏗️ What I Have Built
 
 | # | Project | Domain | Repo |
 |:-:|---------|--------|------|
@@ -132,9 +160,16 @@ me.say_hi()
 | 8 | MSNIT-CNN — Custom CNN architecture for image recognition | Deep Learning | [MSNIT-CNN](https://github.com/VasuML07/MSNIT-CNN) |
 | 9 | ML Algorithms from Scratch — Linear & Logistic Regression without libraries | Classical ML | [MachineLearningProblems](https://github.com/VasuML07/MachineLearningProblems) |
 
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
+
 ---
 
-## 🚀 Featured Projects
+<!-- ═══════════════════════════════════════════ FEATURED PROJECTS ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🚀%20Featured%20Projects&fontSize=28&fontColor=f97316&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
 
 ### 🎯 Fake Job Prediction — NLP Fraud Detection
 <details>
@@ -206,9 +241,16 @@ me.say_hi()
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07/Dna-classification-using-neural-networks)
 </details>
 
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0d1117&height=80&section=footer"/>
+
 ---
 
-## 🧩 Project Deep Dive
+<!-- ═══════════════════════════════════════════ PROJECT DEEP DIVE ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🧩%20Project%20Deep%20Dive&fontSize=28&fontColor=22c55e&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
 
 <details>
 <summary><b>🔍 Fake Job Prediction — Full Architecture Breakdown</b> &nbsp; <img src="https://img.shields.io/badge/Stars-1-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/Domain-NLP-9333ea?style=flat-square"/></summary>
@@ -232,9 +274,85 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 
 </details>
 
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:1a1a2e&height=80&section=footer"/>
+
 ---
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════ GITHUB STATS & ACTIVITY ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=📊%20GitHub%20Stats%20%26%20Activity&fontSize=28&fontColor=38bdf8&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
+
+<!-- 📈 STATS ROW 1: Main Stats + Streak -->
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=c084fc&bg_color=0d1117" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VasuML07&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=c084fc" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 📊 STATS ROW 2: Top Languages + Productivity -->
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasuML07&theme=github_dark"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 📉 ACTIVITY GRAPH -->
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f59e0b&area=true&hide_border=true&height=300"/>
+
+</div>
+
+<br/>
+
+<!-- 🏆 PROFILE SUMMARY CARDS -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VasuML07&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VasuML07&theme=tokyonight"/>
+
+</div>
+
+<br/>
+
+<!-- 🏆 TROPHY CASE -->
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VasuML07&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%"/></p>
+
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0d1117&height=80&section=footer"/>
+
+---
+
+<!-- ═══════════════════════════════════════════ TECH STACK ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=28&fontColor=f59e0b&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -274,28 +392,92 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+<br/>
 
-## 🧠 LeetCode Stats
-
+### 🎨 All Icons at a Glance
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&ext=heatmap&radius=8" width="500"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,typescript,r,tensorflow,pytorch,sklearn,opencv,docker,git,linux,vscode,github,mysql&perline=9" />
 </p>
 
-<p align="center">
-  <i>Consistent algorithmic practice with focus on core DSA patterns and optimization.</i>
-</p>
+<br/>
+
+### 🏷️ Domain Focus
+<div align="center">
+
+<img src="https://img.shields.io/badge/🤖_Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_Deep_Learning-EE4C2C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗣️_NLP-9333ea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👁️_Computer_Vision-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧬_Bioinformatics-0891b2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨_Generative_AI-f97316?style=for-the-badge"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
 
 ---
 
-## 🏆 Achievements
+<!-- ═══════════════════════════════════════════ LEETCODE + GITHUB COMBO ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🧠%20LeetCode%20%2B%20GitHub%20Combo&fontSize=28&fontColor=FFA116&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
+
+<!-- 🧠📊 SIDE-BY-SIDE: LeetCode + GitHub Stats -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&ext=heatmap&radius=8" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FFA116&icon_color=38bdf8&bg_color=0d1117" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 🏷️ BADGE ROW -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/🟢_Consistency-Active_Daily-2ea043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔵_Focus-DSA_·_Patterns_·_Optimization-1f6feb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟣_Approach-Practice_Over_Perfection-9333ea?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <i>💡 Consistent algorithmic practice with focus on core DSA patterns and optimization.</i>
+</p>
+
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:16213e&height=80&section=footer"/>
+
+---
+
+<!-- ═══════════════════════════════════════════ ACHIEVEMENTS ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🏆%20Achievements&fontSize=28&fontColor=f59e0b&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/CGPA-7.94_🏆-f59e0b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University-VIT--AP_University-38bdf8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Year-2nd_Year-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-AI_%2F_ML_Engineering-9333ea?style=for-the-badge"/>
 
 </div>
+
+<br/>
 
 | Milestone | Details |
 |-----------|--------|
@@ -306,17 +488,16 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 | 📚 **Self-Learner** | Built neural networks from scratch, explored RAG, Transformers & multimodal AI |
 | 🔬 **Research Interest** | RAG systems, applied NLP, bioinformatics ML & computer vision |
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VasuML07&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f59e0b&area=true&hide_border=true"/>
-
-</div>
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
 
 ---
+
+<!-- ═══════════════════════════════════════════ CONTRIBUTION ZONE ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🐍%20Contribution%20Zone&fontSize=28&fontColor=22c55e&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
 
 ## 🐍 Contribution Snake
 
@@ -324,24 +505,70 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 <img src="https://raw.githubusercontent.com/VasuML07/VasuML07/output/github-contribution-grid-snake.svg" alt="snake contribution graph">
 </p>
 
----
-
 ## 📊 3D Contributions
 
+<p align="center">
 ![](https://raw.githubusercontent.com/VasuML07/profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
+</p>
+
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0d1117&height=80&section=footer"/>
 
 ---
 
-## 🎯 Roadmap
+<!-- ═══════════════════════════════════════════ ROADMAP ══════════════════════════════════════════ -->
 
-- 🎯 **Short-term** → Master RAG architectures & deploy production-grade AI applications
-- 📄 **Research** → Publish a project in NLP or Computer Vision domain
-- 🏢 **Internship** → Target AI/ML engineering roles at product companies
-- 🔥 **Ongoing** → Daily LeetCode · Build real ML systems · Contribute to open-source AI
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🎯%20Roadmap&fontSize=28&fontColor=38bdf8&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 Short-term**
+→ Master RAG architectures
+→ Deploy production-grade AI applications
+
+**📄 Research**
+→ Publish a project in NLP or CV domain
+
+</td>
+<td width="50%">
+
+**🏢 Internship**
+→ Target AI/ML engineering roles at product companies
+
+**🔥 Ongoing**
+→ Daily LeetCode · Build real ML systems
+→ Contribute to open-source AI
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 🏷️ ROADMAP BADGES -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/🚀_RAG_Master-In_Progress-38bdf8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📄_Research_Paper-Planned-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏢_ML_Internship-Targeting-9333ea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔥_Keep_Building-Always-c084fc?style=for-the-badge"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:1a1a2e&height=80&section=footer"/>
 
 ---
 
-## 💡 Why Me?
+<!-- ═══════════════════════════════════════════ WHY ME ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=💡%20Why%20Me%3F&fontSize=28&fontColor=c084fc&animation=fadeIn&fontAlignY=32"/>
+
+<br/>
 
 > A quick signal check for recruiters & collaborators.
 
@@ -359,14 +586,23 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
    → NLP · Computer Vision · Bioinformatics · Generative AI · Multimodal systems
 ```
 
+<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0d1117&height=80&section=footer"/>
+
 ---
 
-## 📫 Connect With Me
+<!-- ═══════════════════════════════════════════ CONNECT ══════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasumargana.vercel.app/)
+<!-- 🔄 CONNECT TYPING ANIMATION 🔄 -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+Connect!&center=true&width=300&height=30">
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasumargana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-margana-49265031b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/coder_2028/)
 
 </div>
@@ -375,11 +611,19 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
 ⭐ **Star my repos if you enjoy my work!** &nbsp;|&nbsp; Always open to **AI · ML · Deep Learning · Research Collaborations**
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTZoNmVrNGl0eTJ2NTY3dzQwZmk3NWNzOHA2Zmozb2U0M3Q2NzdyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iP8P6sbQTrmMM/giphy.gif" width="500"/>
+
+<br/>
+
+<!-- ✨✨✨ FOOTER WAVE ✨✨✨ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=150&section=footer"/>
 
 </div>
