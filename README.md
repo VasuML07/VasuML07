@@ -289,30 +289,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
   <img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&ext=heatmap&radius=8" width="500"/>
 </p>
 
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/Consistency-Active_Daily-brightgreen?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/Focus-DSA_·_Patterns_·_Optimization-38bdf8?style=for-the-badge"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/Approach-Practice_Over_Perfection-9333ea?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <p align="center">
   <i>Consistent algorithmic practice with focus on core DSA patterns and optimization.</i>
 </p>
