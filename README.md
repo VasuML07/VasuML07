@@ -173,7 +173,7 @@ me.say_hi()
 
 ### 🎯 Fake Job Prediction — NLP Fraud Detection
 <details>
-<summary><b>🔍 Detecting fraudulent job postings using NLP & ML</b> &nbsp; <img src="https://img.shields.io/badge/Domain-NLP%20%2F%20Classification-9333ea?style=flat-square"/> <img src="https://img.shields.io/badge/Stars-1-f59e0b?style=flat-square"/></summary>
+<summary><b>🔍 Detecting fraudulent job postings using NLP & ML</b></summary>
 <br/>
 
 > End-to-end NLP pipeline that classifies job postings as real or fraudulent using text preprocessing and ML classification.
@@ -190,7 +190,7 @@ me.say_hi()
 
 ### 🧠 Neural Networks from Scratch
 <details>
-<summary><b>🧱 Deep learning fundamentals — no frameworks, just Python & NumPy</b> &nbsp; <img src="https://img.shields.io/badge/Domain-Deep%20Learning-EE4C2C?style=flat-square"/></summary>
+<summary><b>🧱 Deep learning fundamentals — no frameworks, just Python & NumPy</b></summary>
 <br/>
 
 > Modular implementation of neural networks from first principles — dense layers, activations, backpropagation, and optimizers.
@@ -208,7 +208,7 @@ me.say_hi()
 
 ### 🎙️ Speech-to-Image Pipeline
 <details>
-<summary><b>🎙️ Offline audio → text → image generation system</b> &nbsp; <img src="https://img.shields.io/badge/Domain-Multimodal%20AI-FFAA00?style=flat-square"/></summary>
+<summary><b>🎙️ Offline audio → text → image generation system</b></summary>
 <br/>
 
 > Streamlit application that converts spoken audio to text using Vosk, then generates an image from the recognized text.
@@ -226,7 +226,7 @@ me.say_hi()
 
 ### 🧬 DNA Sequence Classification
 <details>
-<summary><b>🧬 Neural network-based genomic sequence analysis</b> &nbsp; <img src="https://img.shields.io/badge/Domain-Bioinformatics-22c55e?style=flat-square"/></summary>
+<summary><b>🧬 Neural network-based genomic sequence analysis</b></summary>
 <br/>
 
 > Classifies DNA sequences by analyzing genetic patterns using TensorFlow/Keras neural networks.
@@ -253,7 +253,7 @@ me.say_hi()
 <br/>
 
 <details>
-<summary><b>🔍 Fake Job Prediction — Full Architecture Breakdown</b> &nbsp; <img src="https://img.shields.io/badge/Stars-1-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/Domain-NLP-9333ea?style=flat-square"/></summary>
+<summary><b>🔍 Fake Job Prediction — Full Architecture Breakdown</b></summary>
 
 ### 🎯 Problem
 Online job platforms are flooded with fraudulent postings that mislead job seekers. Detecting fake listings manually is impossible at scale — an automated NLP-based system is needed.
@@ -337,11 +337,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VasuML07&theme=tokyonight"/>
 
 </div>
-
-<br/>
-
-<!-- 🏆 TROPHY CASE -->
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VasuML07&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%"/></p>
 
 <!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0d1117&height=80&section=footer"/>
@@ -472,8 +467,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 
 <img src="https://img.shields.io/badge/CGPA-7.94_🏆-f59e0b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University-VIT--AP_University-38bdf8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Year-2nd_Year-22c55e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-AI_%2F_ML_Engineering-9333ea?style=for-the-badge"/>
 
 </div>
 
@@ -546,18 +539,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- 🏷️ ROADMAP BADGES -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/🚀_RAG_Master-In_Progress-38bdf8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📄_Research_Paper-Planned-22c55e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏢_ML_Internship-Targeting-9333ea?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔥_Keep_Building-Always-c084fc?style=for-the-badge"/>
-
-</div>
 
 <!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:1a1a2e&height=80&section=footer"/>
