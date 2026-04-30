@@ -501,7 +501,7 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 ## 📊 3D Contributions
 
 <p align="center">
-![](https://raw.githubusercontent.com/VasuML07/profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
+  <img src="https://raw.githubusercontent.com/VasuML07/profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 <!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
@@ -591,10 +591,6 @@ Online job platforms are flooded with fraudulent postings that mislead job seeke
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/>
 
 ⭐ **Star my repos if you enjoy my work!** &nbsp;|&nbsp; Always open to **AI · ML · Deep Learning · Research Collaborations**
 
