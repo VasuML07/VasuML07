@@ -165,11 +165,7 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════ GITHUB STATS & ACTIVITY ══════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=📊%20GitHub%20Stats%20%26%20Activity&fontSize=28&fontColor=38bdf8&animation=fadeIn&fontAlignY=32"/>
-
-<br/>
 
 <!-- 📈 STATS ROW 1: Main Stats + Streak -->
 <table>
