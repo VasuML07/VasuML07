@@ -276,14 +276,6 @@ me.say_hi()
 <!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
 
----
-
-<!-- ═══════════════════════════════════════════ LEETCODE + GITHUB COMBO ══════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🧠%20LeetCode%20%2B%20GitHub%20Combo&fontSize=28&fontColor=FFA116&animation=fadeIn&fontAlignY=32"/>
-
-<br/>
-
 <!-- 🧠📊 SIDE-BY-SIDE: LeetCode + GitHub Stats -->
 <table>
 <tr>
