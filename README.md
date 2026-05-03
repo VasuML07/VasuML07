@@ -273,27 +273,6 @@ me.say_hi()
 
 </div>
 
-<!-- ═══════════════════════════════════════════ DIVIDER ══════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
-
-<!-- 🧠📊 SIDE-BY-SIDE: LeetCode + GitHub Stats -->
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://leetcard.jacoblin.cool/coder_2028?theme=dark&font=Baloo&ext=heatmap&radius=8" width="100%"/>
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VasuML07&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FFA116&icon_color=38bdf8&bg_color=0d1117" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <!-- 🏷️ BADGE ROW -->
 <div align="center">
 
