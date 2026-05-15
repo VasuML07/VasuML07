@@ -168,23 +168,7 @@ me.say_hi()
 
 
 
-<!-- 📊 STATS ROW 2: Top Languages + Productivity -->
-<table>
-<tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuML07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasuML07&theme=github_dark"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- 📉 ACTIVITY GRAPH -->
 <div align="center">
