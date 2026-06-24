@@ -401,7 +401,7 @@ me.say_hi()
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasumargana.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vasu-portfolio-nu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-margana-49265031b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuML07)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/coder_2028/)
