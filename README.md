@@ -128,11 +128,9 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 # 2026 Goals
 
 - Build production-grade AI applications
-- Contribute to Open Source AI
 - Publish high-quality ML projects
 - Secure an AI/ML Internship
 - Master AI System Design
-- Solve 500+ LeetCode problems
 
 ---
 
