@@ -8,8 +8,8 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 
 <p align="center">
 
-<a href="https://vasu-portfolio-nu.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://drive.google.com/file/d/16uqZbbHqb0sArBTcMreqU_bjztg2Zyhq/view">
+<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vasu-margana-49265031b/">
@@ -45,34 +45,29 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Fake Job Prediction** | NLP pipeline for fraudulent job detection using TF-IDF and Word2Vec | NLP, Scikit-Learn |
-| **Neural Network From Scratch** | Built forward propagation, backpropagation and optimizers without frameworks | NumPy |
-| **DNA Classification** | Neural network for genomic sequence classification | Deep Learning |
-| **Speech-to-Image** | Offline speech → text → image generation pipeline | Vosk, Python |
-| **Face Detection** | Real-time computer vision application | OpenCV |
-| **Machine Learning From Scratch** | Implemented ML algorithms without ML libraries | Python |
+| **StatVault AI – Football Analytics Platform** | Built feature engineering pipelines and ML models for football analytics. Developed an XGBoost match prediction model (67.7% Accuracy, 0.811 ROC-AUC) and player analytics using K-Means, Cosine Similarity, and Isolation Forest on datasets containing 5M+ player statistics. | Python, XGBoost, Scikit-Learn |
+| **Fake Job Prediction** | NLP pipeline for fraudulent job detection using TF-IDF vectorization and Logistic Regression with a Streamlit web application. | NLP, Scikit-Learn, Streamlit |
+| **Neural Network From Scratch** | Built a fully connected neural network from scratch with forward propagation, backpropagation, gradient descent, and activation functions using only NumPy. | Python, NumPy |
+| **Speech-to-Image** | Offline speech-to-text to image generation pipeline. | Python, Vosk |
+| **Face Detection** | Real-time face detection and computer vision application. | OpenCV |
 
 ---
 
 # Tech Stack
 
-### Languages
+## Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,r,mysql"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,r,mysql" />
 </p>
 
-### AI / Machine Learning
+## AI / Machine Learning
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-**Libraries**
+### Libraries
 
 - Scikit-Learn
 - Pandas
@@ -83,12 +78,10 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 - Hugging Face
 - Streamlit
 
-### Tools
+## Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
@@ -97,10 +90,10 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 
 - Retrieval-Augmented Generation (RAG)
 - Production-ready ML deployment
-- Transformer fine-tuning
+- Transformer Fine-tuning
 - System Design
 - LeetCode & DSA
-- Open Source
+- Open Source Contributions
 
 ---
 
@@ -140,8 +133,8 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 - Contribute to Open Source AI
 - Publish high-quality ML projects
 - Secure an AI/ML Internship
-- Master System Design for AI Engineers
-- Strengthen DSA consistency
+- Master AI System Design
+- Solve 500+ LeetCode problems
 
 ---
 
@@ -149,8 +142,8 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 
 <p align="center">
 
-<a href="https://vasu-portfolio-nu.vercel.app/">
-Portfolio
+<a href="https://drive.google.com/file/d/16uqZbbHqb0sArBTcMreqU_bjztg2Zyhq/view">
+Resume
 </a>
 •
 <a href="https://www.linkedin.com/in/vasu-margana-49265031b/">
@@ -171,6 +164,6 @@ LeetCode
 
 <div align="center">
 
-⭐ If you like my work, consider checking out my repositories.
+⭐ If you like my work, consider starring a repository!
 
 </div>
