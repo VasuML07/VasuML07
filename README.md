@@ -48,8 +48,6 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 | **StatVault AI – Football Analytics Platform** | Built feature engineering pipelines and ML models for football analytics. Developed an XGBoost match prediction model (67.7% Accuracy, 0.811 ROC-AUC) and player analytics using K-Means, Cosine Similarity, and Isolation Forest on datasets containing 5M+ player statistics. | Python, XGBoost, Scikit-Learn |
 | **Fake Job Prediction** | NLP pipeline for fraudulent job detection using TF-IDF vectorization and Logistic Regression with a Streamlit web application. | NLP, Scikit-Learn, Streamlit |
 | **Neural Network From Scratch** | Built a fully connected neural network from scratch with forward propagation, backpropagation, gradient descent, and activation functions using only NumPy. | Python, NumPy |
-| **Speech-to-Image** | Offline speech-to-text to image generation pipeline. | Python, Vosk |
-| **Face Detection** | Real-time face detection and computer vision application. | OpenCV |
 
 ---
 
