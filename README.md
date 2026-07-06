@@ -24,6 +24,10 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://port-folio-lac-tau.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
