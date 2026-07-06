@@ -145,17 +145,22 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 <a href="https://drive.google.com/file/d/16uqZbbHqb0sArBTcMreqU_bjztg2Zyhq/view">
 Resume
 </a>
-•
+
 <a href="https://www.linkedin.com/in/vasu-margana-49265031b/">
 LinkedIn
 </a>
-•
+
 <a href="https://github.com/VasuML07">
 GitHub
 </a>
-•
+
 <a href="https://leetcode.com/u/coder_2028/">
 LeetCode
+</a>
+
+•
+<a href="https://port-folio-lac-tau.vercel.app/">
+Portfolio
 </a>
 
 </p>
