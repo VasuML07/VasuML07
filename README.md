@@ -8,7 +8,7 @@ AI/ML Engineering student passionate about building intelligent systems, solving
 
 <p align="center">
 
-<a href="https://drive.google.com/file/d/16uqZbbHqb0sArBTcMreqU_bjztg2Zyhq/view">
+<a href="https://drive.google.com/file/d/16uqZbbHqb0sArBTcMreqU_bjztg2Zyhq/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
