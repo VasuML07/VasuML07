@@ -28,22 +28,6 @@ Building intelligent software systems with a focus on Machine Learning, scalable
 
 # Featured Projects
 
-## 🔍 SearchForge
-**Semantic Multi-Modal Search Engine**
-
-Repository: **https://github.com/VasuML07/searchforge**
-
-- CLIP embeddings for semantic text & image search
-- Qdrant vector database for ANN retrieval
-- FastAPI backend
-- Redis caching
-- Batch embedding pipeline
-- Production-oriented architecture
-
-**Tech:** Python • FastAPI • CLIP • PyTorch • Qdrant • Redis
-
----
-
 ## ⚽ StatVault AI
 
 Football analytics platform featuring:
