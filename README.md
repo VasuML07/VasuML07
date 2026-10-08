@@ -11,7 +11,6 @@ Building intelligent software systems with a focus on Machine Learning, scalable
 <a href="https://www.linkedin.com/in/vasu-margana-49265031b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/VasuML07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://leetcode.com/u/coder_2028/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://port-folio-lac-tau.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 </div>
