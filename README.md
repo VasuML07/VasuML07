@@ -7,7 +7,7 @@
 Building intelligent software systems with a focus on Machine Learning, scalable backend engineering, and solving practical problems.
 
 <p align="center">
-<a href="https://drive.google.com/file/d/16uqZbbHqb0sArBTcMreqU_bjztg2Zyhq/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1vZ-bZrbhBDwrR9X7cJPtYZogH8ue0hDT/view"><img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vasu-margana-49265031b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/VasuML07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://leetcode.com/u/coder_2028/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
